@@ -14,3 +14,4 @@ mods csn be found on https://www.curseforge.com/ark-survival-ascended/mods/
 | Tek spyglas | 937154 | 
 | Stacks  | 930561 | 
 | Turkey trial | 927083 |
+| Teleporters | 932770 | 
