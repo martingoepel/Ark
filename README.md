@@ -13,5 +13,6 @@ mods csn be found on https://www.curseforge.com/ark-survival-ascended/mods/
 | QoL Plus | 939228 | 
 | Tek spyglas | 937154 | 
 | Stacks  | 930561 | 
-| Turkey trial | 927083 |
+| ~~Turkey trial~~ | ~~927083~~ |
 | Teleporters | 932770 | 
+| Winter Wonderland | 927090 |
