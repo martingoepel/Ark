@@ -17,3 +17,4 @@ mods csn be found on https://www.curseforge.com/ark-survival-ascended/mods/
 | Teleporters | 932770 | 
 | Winter Wonderland | 927090 |
 | JVH Blueprint Maker | 951440 |
+| Crafting Potion | 929785 |
